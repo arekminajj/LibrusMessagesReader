@@ -1,8 +1,8 @@
 # Librus Messages Reader
 
-[ENG] Simple python app automatically reading Librus messages from teachers, who check class attendance via messages module.
+[ENG] Simple python script automatically reading Librus messages from teachers, who check class attendance via messages module.
 
-[PL] Prosta aplikacja automatyczie czytająca wiadomości w czasie rzeczywistym od nauczycieli, sprawdzających obecość na lekcjach zdalnych na podstawie czasu, w którym wiadomość została przeczytana.
+[PL] Prosty skrypt automatyczie czytający wiadomości w czasie rzeczywistym od nauczycieli, sprawdzających obecość na lekcjach zdalnych na podstawie czasu, w którym wiadomość została przeczytana.
 
 ## Warning
 The code isn't perfect, I wrote it in 10 minutes for personal need. Sometimes it works for hours and everything is fine, but sometimes it can crash in 10 minutes and restart is required.
